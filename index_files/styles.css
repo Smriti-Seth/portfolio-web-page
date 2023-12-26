@@ -115,8 +115,3 @@ body {
   .contact-me>p>img{
     border-radius: 50%;
   }
-@media(max-width: 600px){
-    p{
-        font-size: 3 rem;
-    }
-}
